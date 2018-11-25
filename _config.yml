@@ -1,22 +1,15 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Mat Munn"
+description:        "A web developer based in Melbourne, Australia"
 
-url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+url:                "https://matmunn.me"
+author:             "Mat Munn"
+email:              "mat@matmunn.me"
+gravatar_hash:      "38f71ad48c5e9eedcafcab49744328a6"
+twitter:            "matmunn14"
+github:             "matmunn"
+linkedin:           "matmunn"
 
-disqus_shortname:   "thinker3197"
-
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
-
-paginate:           5
+paginate:           8
 paginate_path:      "/page:num/"
 
 baseurl:            ""
@@ -27,8 +20,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Contact"
+    href:           "/contact"
 
 sass:
   style:            :compressed
