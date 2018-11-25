@@ -21,7 +21,7 @@ There were plans to add all sorts of things - multi-region deployments via AWS a
 BitBucket and GitHub, among other things.
 
 Unforunately I ran out of time to work on it and it sat on my computer for a while, so now it's open source on GitHub
-and avaiable here: https://github.com/matmunn/dployr
+and avaiable here: <https://github.com/matmunn/dployr>
 
 <br />
 #### Waterfall
@@ -40,7 +40,10 @@ it off, life happens. It was more of a cosmetic rebuild than anything, I origina
 didn't pay much attention to styling as I was after quick functionality - I ended up replacing Bootstrap with Bulma
 and giving the UI a bit of attention.
 
-Both projects are on GitHub at https://github.com/waterfall
+The link for these projects are:
+* Server: <https://github.com/matmunn/waterfall-server>
+* React Client: <https://github.com/matmunn/waterfall-client-react>
+* Vue Client: <https://github.com/matmunn/waterfall-client-vue>
 
 
 <br /><br/>

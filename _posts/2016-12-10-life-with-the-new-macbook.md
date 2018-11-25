@@ -1,5 +1,5 @@
 ---
-title: "Life With The New MacBook Pro"
+title: Life With The New MacBook Pro
 ---
 
 So I got my brand new 2016 15" MacBook Pro with Touch Bar on Friday of last week. I spent some time with it over that weekend and then come Monday I had a very usable web development machine.
@@ -36,7 +36,7 @@ At work I use a 28" 4k external display for working on, at home I have two 28" 4
 
 I started getting flickers on my screen. "Sure, I can forgive that," I thought to myself. But it slowly got worse and worse and finally got to the point where my machine locked up entirely with giant red blocks on the screen on my MacBook, as shown in the picture below.
 
-<img src="/img/posts/video_issues.jpg" alt="Video issues on the 2016 MacBook Pro" class="img-responsive">
+<img src="/assets/img/2016-12-10-video_issues.jpg" alt="Video issues on the 2016 MacBook Pro" class="img-responsive">
 
 Everything was fine when there was no external display connected, it was only when I plugged in any external monitor at any resolution. I was rather annoyed by this, to say the least.
 
