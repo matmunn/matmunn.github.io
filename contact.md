@@ -10,7 +10,7 @@ I'm fairly available on the internet. If you wish to contact me you can choose y
         Email: mat (at) matmunn.me
     </li>
     <li>
-        Twitter: <a href="http://twitter.com/matmunn14" target="_blank">@matmunn14</a> (I am super not active on twitter)
+        Twitter: <a href="http://twitter.com/matmunn" target="_blank">@matmunn</a>
     </li>
     <li>
         GitHub: <a href="http://github.com/matmunn" target="_blank">@matmunn</a>
